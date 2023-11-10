@@ -21,3 +21,6 @@ Everything else - is automatically created by UNITY.
 The first Unity import will take a while: 5-10 minutes. 
 
 Video available at: https://www.youtube.com/watch?v=KlCkMJZWvKY&t
+
+Portable Download:
+https://github.com/dragos-vacariu/Portable-Downloads/blob/main/Drag%20Racing%20Environment.7z
