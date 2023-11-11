@@ -14,11 +14,9 @@ Assets:
 	Standard Assets -> Created by Unity.
 	VillagePack -> Village Pack downloded from Unity Store.
 
-Build.7z - contains the output of the build process consisting in compiled .exe file and all the resources required to run the game.
-
 Everything else - is automatically created by UNITY.
 
-The first Unity import will take a while: 5-10 minutes. 
+The first Unity import will take about: 5-10 minutes. 
 
 Video available at: https://www.youtube.com/watch?v=KlCkMJZWvKY&t
 
