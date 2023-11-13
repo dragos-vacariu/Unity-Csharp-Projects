@@ -5,4 +5,4 @@ Presentation video available at: https://youtu.be/FWr8ewto3NU
 The first Unity import will take about: 5-10 minutes. 
 
 Portable Download: 
-https://github.com/dragos-vacariu/Portable-Downloads/blob/main/TowerBlocks%20Game.7z
+https://github.com/dragos-vacariu/Portable-Downloads/tree/main/TowerBlocks%20Game

@@ -21,4 +21,4 @@ The first Unity import will take about: 5-10 minutes.
 Video available at: https://www.youtube.com/watch?v=KlCkMJZWvKY&t
 
 Portable Download:
-https://github.com/dragos-vacariu/Portable-Downloads/blob/main/Unity%203D%20Drag%20Racing%20Environment.7z
+https://github.com/dragos-vacariu/Portable-Downloads/tree/main/Unity%203D%20Drag%20Racing%20Environment
