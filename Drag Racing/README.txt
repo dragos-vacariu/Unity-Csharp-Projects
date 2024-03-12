@@ -18,7 +18,8 @@ Everything else - is automatically created by UNITY.
 
 The first Unity import will take about: 5-10 minutes. 
 
-Video available at: https://www.youtube.com/watch?v=KlCkMJZWvKY&t
+Presentation Video: 
+https://dragos-vacariu.github.io/Unity-Csharp-Projects/Drag%20Racing/Drag%20Racing.html
 
 Portable Download:
 https://github.com/dragos-vacariu/Portable-Downloads/tree/main/Unity%203D%20Drag%20Racing%20Environment

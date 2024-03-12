@@ -1,6 +1,7 @@
 TowerBlocks minigame developed using Unity 2021.3.25f1 and C#.
 
-Presentation video available at: https://youtu.be/FWr8ewto3NU
+Presentation video: 
+https://dragos-vacariu.github.io/Unity-Csharp-Projects/TowerBlocks/TowerBlocks.html
 
 The first Unity import will take about: 5-10 minutes. 
 
